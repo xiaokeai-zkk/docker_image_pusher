@@ -1,1 +1,1 @@
---platform=linux/arm64 langgenius/dify-api:0.15.3
+--platform=linux/arm64 python:3.13.5
