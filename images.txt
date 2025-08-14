@@ -1,1 +1,1 @@
---platform=linux/amd64 chromadb
+--platform=linux/arm64 chromadb/chroma
