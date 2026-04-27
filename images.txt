@@ -1,1 +1,1 @@
---platform=linux/amd64 ubuntu/squid:latest
+--platform=linux/amd64 semitechnologies/weaviate:1.19.0
