@@ -1,1 +1,1 @@
---platform=linux/amd64 postgres:15-alpine
+--platform=linux/amd64 redis:6-alpine
