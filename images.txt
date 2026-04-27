@@ -1,1 +1,1 @@
---platform=linux/amd64 redis:6-alpine
+--platform=linux/amd64 langgenius/dify-sandbox:0.2.9
