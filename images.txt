@@ -1,1 +1,1 @@
---platform=linux/amd64 langgenius/dify-sandbox:0.2.9
+--platform=linux/amd64 ubuntu/squid:latest
