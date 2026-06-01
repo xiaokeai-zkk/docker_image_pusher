@@ -1,1 +1,1 @@
---platform=linux/amd64 semitechnologies/weaviate:1.19.0
+--platform=linux/amd64 tdengine/tsdb-ee:3.4.1.12
