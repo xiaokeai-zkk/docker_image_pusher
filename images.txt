@@ -1,1 +1,1 @@
---platform=linux/amd64 tdengine/tsdb-ee:3.4.1.12
+--platform=linux/amd64 tdengine/tsdb
